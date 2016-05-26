@@ -15,7 +15,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a class="navbar-brand" href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
-                <li id="contact" runat="server"><a class="navbar-brand" href="contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact</a></li>
+                <li id="contact" runat="server"><a class="navbar-brand" href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact</a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
